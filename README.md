@@ -14,6 +14,7 @@ Quiz Generation: Creates short, interactive quizzes to test the user's understan
 
 Reading Pattern Analytics: Provides insights on user reading habits and recommends when to take breaks or re-read sections.
 
+
 ## Test running using the instructions on installing/running this Chrome Extension
 
 1. Install Chrome Canary and setup the browser for Built-in Chrome AI as per the instructions [here](https://medium.com/google-cloud/get-started-with-chrome-built-in-ai-access-gemini-nano-model-locally-11bacf235514).
