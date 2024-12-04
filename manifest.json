@@ -1,0 +1,33 @@
+{
+  "name": "Chrome Built-in AI Summarization Side Panel- BalloAi",
+  "version": "1.1",
+  "manifest_version": 3,
+  "description": "Summarizes text using Chrome's Gemini Nano AI and provides research links, emotion analysis, and more.",
+  
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+
+  "permissions": [
+    "sidePanel",
+    "contextMenus",
+    "storage",
+    "activeTab",
+    "tabs"
+  ],
+ 
+  "icons": {
+    "128": "images/icon-128.png",
+    "16": "images/icon-16.png"
+  },
+
+  "host_permissions": ["<all_urls>"],
+  
+  "action": {
+    "default_title": "Summarize and Analyze",
+    "default_popup": "sidepanel.html"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
