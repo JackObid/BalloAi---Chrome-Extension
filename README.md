@@ -1,5 +1,7 @@
 # BalloAi---Chrome-Extension
 
+![BalloAi ](https://github.com/user-attachments/assets/f27c5a38-1075-4b37-b260-2a54d55bbc23)
+
 A Chrome Extension, that uses the Gemini Nano AI Model to provide users with learning tips and cognitive insights based on the summarized text, enhancing their comprehension and retention. It leverages AI to analyze the text and user interaction patterns to recommend:
 
 Key Takeaways: Automatically extracts and highlights the 3 most critical points from the article.
